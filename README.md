@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working and maintaning [LWC-lightning-datatable](https://github.com/Sarveshgithub/sfdc-lwc-lightning-datatable) and [Nomad](https://github.com/Sarveshgithub/Nomad)
 
-- 👯 I’m looking to collaborate on [Promises](https://www.github.com/codefriar/promiseV3)
+- 👯 I’m looking to collaborate on [Rounting Engine](https://github.com/users/Sarveshgithub/projects/4), Not started yet, need to design MVP, feel free to add `epic`.
 
-- 🤝 I’m looking for collabrator with [Rounting Engine](https://github.com/users/Sarveshgithub/projects/4), Not started yet, need to design MVP, feel free to add `epic`.
-
-- 👨‍💻 All of my projects are available at [Https://github.com/sarveshgithub](Https://github.com/Github)
+- 👨‍💻 All of my projects are available at [sarveshgithub](Https://github.com/sarveshgithub)
 
 - 💬 Ask me about **Salesforce, Apex, LWC**
 
