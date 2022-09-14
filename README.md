@@ -9,7 +9,7 @@
 
   - ## [sfdc-lwc-lightning-datatable](https://github.com/Sarveshgithub/sfdc-lwc-lightning-datatable)
     - This is generic lighting data table , which is build in lwc. The customization are done by design attributes.
-    - 📣 Shout out! to contributers of this project. Feel free to constribute!
+    - 📣 Shout out! to contributers of this project. Feel free to constribute!  
       <a href="https://github.com/Sarveshgithub/sfdc-lwc-lightning-datatable/graphs/contributors">
       <img src="https://contrib.rocks/image?repo=Sarveshgithub/sfdc-lwc-lightning-datatable" />
       </a>
