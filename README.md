@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvesh</h1>
-<h3 align="center">Writing code since 2010, Currently working in Salesforce tech stack Apex, LWC mainly</h3>
+<h3 align="center">Writing code since 2013, Currently working in Salesforce tech stack Apex, LWC mainly</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarveshgithub" alt="sarveshgithub" /></a> </p>
 
@@ -9,7 +9,7 @@
 
   - ## [sfdc-lwc-lightning-datatable](https://github.com/Sarveshgithub/sfdc-lwc-lightning-datatable)
     - This is generic lighting data table , which is build in lwc. The customization are done by design attributes.
-    - 📣 Shout out! to contributers of this project. Feel free to constribute!  
+    - 📣 Shout out! to contributers of this project. Feel free to contribute!  
       <a href="https://github.com/Sarveshgithub/sfdc-lwc-lightning-datatable/graphs/contributors">
       <img src="https://contrib.rocks/image?repo=Sarveshgithub/sfdc-lwc-lightning-datatable" />
       </a>
