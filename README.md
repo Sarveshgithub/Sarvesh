@@ -17,6 +17,14 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/sarvesh-kumar](https://www.linkedin.com/in/sarvesh-kumar)
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sarvesh201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codefriar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevinpoorman" height="30" width="40" /></a>
+<a href="https://salesforce.stackexchange.com/users/49944/sarvesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kevin-p" height="30" width="40" /></a>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarveshgithub&show_icons=true&locale=en&layout=compact" alt="sarvesh" /></p>
 
 
